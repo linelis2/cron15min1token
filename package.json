@@ -1,0 +1,14 @@
+{
+  "name": "testtest-token-minter",
+  "version": "1.0.0",
+  "description": "Automated minting service for TestTest token",
+  "main": "scripts/railwayMint.js",
+  "scripts": {
+    "start": "node scripts/railwayMint.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.19.5"
+  }
+}
